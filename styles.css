@@ -1,12 +1,8 @@
 body {
-	background: #00E6FF;
+	background: #F5F5F5;
 }
 
-.jumbotron {
-	background: #2ED47B;
-}
-
-img {
-	height: 300px;
-	border: black solid;
+h1, h2 {
+	text-align: center;
+	margin-top: 30px;
 }
