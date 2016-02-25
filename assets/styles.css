@@ -2,6 +2,14 @@ body {
 	padding-top: 70px;
 }
 
+.alert-info > .body {
+	font-weight: bold;
+}
+
+.alert-info > .footer {
+	font-size: 14px;
+}
+
 h1 {
 	text-align: center;
 	margin-top: 0px;
