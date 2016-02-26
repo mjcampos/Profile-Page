@@ -2,12 +2,15 @@ body {
 	padding-top: 70px;
 }
 
-.alert-info > .body {
-	font-weight: bold;
+#fun-facts {
+	border-style: solid;
+	padding: 20px;
+	margin-bottom: 20px;
 }
 
-.alert-info > .footer {
-	font-size: 14px;
+#fun-facts > .body {
+	font-weight: bold;
+	margin-left: 10px;
 }
 
 h1 {
